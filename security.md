@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![下载 IDM](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/idm-free)
+[![下载 IDM](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/idm-free)
 
 </div>
 
@@ -107,7 +107,7 @@
 6. **🌐 安装浏览器扩展** — 按提示安装插件
 7. **🎯 开始下载** — 点击任何下载链接
 
-[![下载 IDM](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/idm-free)
+[![下载 IDM](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/idm-free)
 
 ### 下载视频
 
@@ -190,7 +190,7 @@
 
 <div align="center">
 
-[![下载 IDM](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/idm-free)
+[![下载 IDM](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/idm-free)
 
 **版本 4.6.1** — 极速下载管理器。永久免费。
 
